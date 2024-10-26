@@ -16,7 +16,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Prime Mates Board Club Mint</title>
+        <title>Prime Mates Board Club Halloween Mint</title>
         <meta name="description" content="" />
         <link href="/icon.png" rel="icon" type="image/x-icon"/>
       </Head>
